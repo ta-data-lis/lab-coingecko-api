@@ -1,0 +1,11 @@
+,id,symbol,name,current_price,market_cap_rank
+0,bitcoin,btc,Bitcoin,10315.9,1
+1,ethereum,eth,Ethereum,188.16,2
+2,ripple,xrp,XRP,0.269394,3
+3,bitcoin-cash,bch,Bitcoin Cash,309.53,4
+4,litecoin,ltc,Litecoin,74.5,5
+5,binancecoin,bnb,Binance Coin,25.88,6
+6,eos,eos,EOS,3.6,7
+7,tether,usdt,Tether,0.998302,8
+8,bitcoin-cash-sv,bsv,Bitcoin SV,133.33,9
+9,cardano,ada,Cardano,0.04961004,10
